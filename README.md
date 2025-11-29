@@ -40,8 +40,3 @@ I am a developer with solid experience in software maintenance and development. 
 - [LinkedIn](https://linkedin.com/in/andreszubieta) *(replace with your actual profile link)*
 - **Email**: andres.zubieta@email.com *(replace with your actual email)*
 
----
-
-⚡ **Fun Fact**:  
-While my main expertise is in accounting software, I love exploring new technologies and tackling complex challenges to grow as a professional.
-
